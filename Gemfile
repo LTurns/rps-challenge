@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'session'
 gem 'sinatra'
 
 group :test do
